@@ -71,7 +71,7 @@ public class TelaAdministrador extends javax.swing.JFrame {
         setMinimumSize(new java.awt.Dimension(800, 500));
 
         menuVendas.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagens/dinheiro.png"))); // NOI18N
-        menuVendas.setText("[F2]Vendas          ");
+        menuVendas.setText("Vendas          ");
 
         jMenu5.setText("Gestão de Clientes");
 
@@ -134,7 +134,7 @@ public class TelaAdministrador extends javax.swing.JFrame {
         jMenuBar1.add(menuVendas);
 
         MenuGestaoEmpresarial.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagens/gestao-de-dados.png"))); // NOI18N
-        MenuGestaoEmpresarial.setText("[F4]Gestão Empresarial           ");
+        MenuGestaoEmpresarial.setText("Gestão Empresarial           ");
 
         jMenu1.setText("Gestão de Estoque ");
 
